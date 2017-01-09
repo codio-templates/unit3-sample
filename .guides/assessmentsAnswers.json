@@ -1,0 +1,24 @@
+[
+ {
+  "taskId": "code-output-compare-1663632003",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483968869784
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483962940718
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Hello unit 1\\n\"}]}",
+    "timestamp": 1483962936713,
+    "state": "pass"
+   }
+  ]
+ }
+]

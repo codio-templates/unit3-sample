@@ -1,0 +1,57 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2218712672",
+  "source": {
+   "name": "MCQ",
+   "showName": true,
+   "instructions": "What is the third letter of the alphabet?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4bbe8cc9-939b-3d9e-dcf9-c0c9c53aece6",
+     "correct": false,
+     "answer": "b"
+    },
+    {
+     "_id": "e4ffd001-4be1-42ef-6735-945327177b74",
+     "correct": true,
+     "answer": "c"
+    },
+    {
+     "_id": "34b14c0a-d85d-c452-9432-594459f8dc4b",
+     "correct": false,
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-1663632003",
+  "source": {
+   "name": "Hello",
+   "showName": false,
+   "preExecuteCommand": "",
+   "command": "python3 unit1-test.py",
+   "points": 1,
+   "oneTimeTest": false,
+   "instructions": "Write a python program that outputs \"Hello Unit 3\"",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "hello unit 3"
+    }
+   ]
+  }
+ }
+]

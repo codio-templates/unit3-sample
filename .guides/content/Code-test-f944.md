@@ -1,0 +1,1 @@
+{Check It!|assessment}(code-output-compare-1663632003)
